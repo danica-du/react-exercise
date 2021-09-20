@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-exercise/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-exercise/static/js/main.fc3bbacb.chunk.js",
-    "main.js.map": "/react-exercise/static/js/main.fc3bbacb.chunk.js.map",
+    "main.css": "/react-exercise/static/css/main.7e0c8d3d.chunk.css",
+    "main.js": "/react-exercise/static/js/main.082dd56c.chunk.js",
+    "main.js.map": "/react-exercise/static/js/main.082dd56c.chunk.js.map",
     "runtime-main.js": "/react-exercise/static/js/runtime-main.fc42cd54.js",
     "runtime-main.js.map": "/react-exercise/static/js/runtime-main.fc42cd54.js.map",
     "static/js/2.a5b999e3.chunk.js": "/react-exercise/static/js/2.a5b999e3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ed2f15fe.chunk.js": "/react-exercise/static/js/3.ed2f15fe.chunk.js",
     "static/js/3.ed2f15fe.chunk.js.map": "/react-exercise/static/js/3.ed2f15fe.chunk.js.map",
     "index.html": "/react-exercise/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/react-exercise/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.7e0c8d3d.chunk.css.map": "/react-exercise/static/css/main.7e0c8d3d.chunk.css.map",
     "static/js/2.a5b999e3.chunk.js.LICENSE.txt": "/react-exercise/static/js/2.a5b999e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fc42cd54.js",
     "static/js/2.a5b999e3.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.fc3bbacb.chunk.js"
+    "static/css/main.7e0c8d3d.chunk.css",
+    "static/js/main.082dd56c.chunk.js"
   ]
 }
